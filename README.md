@@ -2,7 +2,6 @@
 
 基于 Node.js 的 QQ 农场自动化工具，支持多账号管理、Web 控制面板、实时日志与数据分析。
 
-[Discord](https://discord.gg/zTEhed5qpc)
 
 ## 技术栈
 
